@@ -17,6 +17,9 @@ Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*
 :::
 [[bioRxiv](https://doi.org/10.64898/2026.03.03.708601){.paper-link}]
 :::
+::: paper-fig
+![](img/papers/CORE_fig.png)
+:::
 :::
 
 ::: paper-row
@@ -31,6 +34,9 @@ Stronger Mnemonic Prediction Errors Can Disproportionately Impair Memory Updatin
 Seo, M. S., Wahlheim, C., & Giovanello, K. (2024). *PsyArXiv*.
 :::
 [[PsyArXiv](https://doi.org/10.31234/osf.io/gcr8a_v1){.paper-link}]
+:::
+::: paper-fig
+![](img/papers/APE_fig.png)
 :::
 :::
 

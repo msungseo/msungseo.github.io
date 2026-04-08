@@ -59,18 +59,31 @@ a:hover {
 /* ── Papers page ── */
 .paper-row {
   display: flex;
+  flex-direction: row;
   align-items: flex-start;
   padding: 1rem 0;
   border-bottom: 1px solid #dee2e6;
+  gap: 1.5rem;
 }
 
 .paper-year {
-  width: 100px;
+  width: 60px;
   color: #6c757d;
   font-weight: 600;
   flex-shrink: 0;
   font-size: 1rem;
   margin-top: 0.25rem;
+}
+
+.paper-fig {
+  width: 160px;
+  flex-shrink: 0;
+}
+
+.paper-fig img {
+  width: 100%;
+  border-radius: 4px;
+  display: block;
 }
 
 .paper-info {
