@@ -1,0 +1,27 @@
+---
+title: "About"
+---
+
+## Bio
+
+I am a Postdoctoral Scholar in the Department of Psychology at Penn State, working on the neural correlates of episodic memory and aging. My research uses behavioral and neuroimaging methods to understand how memory changes across the lifespan.
+
+I completed my PhD in Cognitive Psychology at the University of North Carolina at Chapel Hill (2025) and my BS in Psychology (Neuroscience Option) at Penn State.
+
+Outside of research, I am patiently waiting to outlive the ending of One Piece.
+
+---
+
+## Education
+
+**PhD, Cognitive Psychology**
+The University of North Carolina at Chapel Hill, 2025
+
+**BS, Psychology (Neuroscience Option)**
+The Pennsylvania State University, University Park
+
+---
+
+## CV
+
+You can download my full CV [here](cv/CV_Seo_082525.pdf).

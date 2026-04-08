@@ -1,63 +1,41 @@
 ---
-title: "Papers"
-format: html
-aliases: 
-  - /papers
-css: styles.css
+title: "Publications"
 ---
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE, results = "asis"}
-library(readr)
-library(glue)
-library(purrr)
-library(stringr)
-library(htmltools)
-library(knitr)
+## Preprints
 
-`%||%` <- function(a, b) if (!is.null(a) && !is.na(a) && a != "") a else b
+::: paper-row
+::: paper-year
+2026
+:::
+::: paper-info
+::: paper-title
+Temporal Interference Modulates Medial Temporal and Frontoparietal Activity During Mnemonic Discrimination: A high-resolution whole-brain fMRI investigation
+:::
+::: paper-ref
+Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*.
+:::
+[[bioRxiv](https://doi.org/10.64898/2026.03.03.708601){.paper-link}]
+:::
+:::
 
-# Read your CSV
-papers <- read_csv("papers/papers.csv")
+::: paper-row
+::: paper-year
+2024
+:::
+::: paper-info
+::: paper-title
+Stronger Mnemonic Prediction Errors Can Disproportionately Impair Memory Updating in Older Adults
+:::
+::: paper-ref
+Seo, M. S., Wahlheim, C., & Giovanello, K. (2024). *PsyArXiv*.
+:::
+[[PsyArXiv](https://doi.org/10.31234/osf.io/gcr8a_v1){.paper-link}]
+:::
+:::
 
-# Create raw HTML output for each row
-cards <- map_chr(1:nrow(papers), function(i) {
-  row <- papers[i, ]
-  title <- row$title %||% ""
-  shortref <- row$shortref %||% ""
-  year <- row$year %||% ""
-  paper_link <- row$url %||% "#"
-  oa_link <- row$openaccess %||% ""
-  code_link <- row$code_url %||% ""
-  featured <- row$featured
-  
-  # Conditional icons
-  oa_icon <- if (oa_link != "") {
-    glue('<a href="{oa_link}" class="icon-link" target="_blank" title="open access"><i class="bi bi-unlock"></i></a>')
-  } else { "" }
-  code_icon <- if (code_link != "") {
-    glue('<a href="{code_link}" class="icon-link" target="_blank" title="data & code"><i class="bi bi-code-slash"></i></a>')
-  } else { "" }
-  featured_icon <- if (featured) {
-    glue('<i class="bi bi-bookmark-star-fill" style="color: #0d6efd; margin-right: 0.1rem; font-size: 0.7rem;"></i>')
- } else { "" }
+---
 
-  glue(
-    '<div class="paper-row">
-      <div class="paper-year">{year}</div>
-      <div class="paper-info">
-        <div class="paper-title"> {featured_icon}
-          <a href="{paper_link}" class="paper-link" target="_blank">{title}</a>
-          <p class="paper-ref">{shortref}
-          
-          {oa_icon}
-          {code_icon}
-        </p>
-        </div>
-      </div>
-    </div>'
-  )
-})
+## Peer-Reviewed Publications
 
-# Combine and output as raw HTML
-asis_output(paste(cards, collapse = "\n"))
-```
+*Coming soon.*
