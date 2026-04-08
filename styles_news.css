@@ -1,0 +1,40 @@
+/* Style the overall grid */
+.quarto-grid {
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+/* Style individual cards */
+.quarto-grid-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    transition: transform 0.2s;
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-3px);
+}
+
+/* Title inside each card */
+.quarto-grid-item .listing-title {
+    font-size: 1.15rem;
+    font-weight: 550;
+    /* color: #0d6efd; */
+    margin-bottom: 0.5rem;
+}
+
+/* Category tags */
+.listing-category {
+  display: inline-block;
+  background-color: #eef;
+  padding: 4px 4px;
+  margin: 2px 0px;
+  font-size: 1rem;
+  border-radius: 999px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+

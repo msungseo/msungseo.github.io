@@ -1,0 +1,19 @@
+---
+title: "News"
+aliases: 
+  - /news
+listing:
+  contents: news
+  type: grid
+  sort: "date desc"
+  fields: [title, date, description, categories]
+  # categories: true
+  max-description-length: 100
+  grid-item-border: true
+  grid-columns: 3
+format:
+  html:
+    css: 
+      - styles_news.css # specific to news grid
+      - styles.css
+---

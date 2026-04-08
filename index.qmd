@@ -1,0 +1,71 @@
+---
+pagetitle: MemoLab
+---
+
+::::: grid
+:::: g-col-12
+::: {style="font-size: 1.4em; text-align: center;"}
+<br> In the **MemoLab**, we use the tools of cognitive neuroscience to answer questions about memory and the brain.
+:::
+::::
+:::::
+
+:::: grid
+::: g-col-12
+![](/img/brain_montage_photos.png)
+:::
+::::
+
+::::::::: grid
+:::: {.g-col-12 .g-col-sm-4}
+::: {style="font-size: 1.2em; text-align: center;"}
+**How does the brain store and remember the details of past events?**
+:::
+::::
+
+:::: {.g-col-12 .g-col-sm-4}
+::: {style="font-size: 1.2em; text-align: center;"}
+**How do functional brain networks interact to support episodic memory?**
+:::
+::::
+
+:::: {.g-col-12 .g-col-sm-4}
+::: {style="font-size: 1.2em; text-align: center;"}
+**How does emotion interact with memory processes?**
+:::
+::::
+:::::::::
+
+::::: grid
+:::: g-col-12
+::: {style="font-size: 1em; text-align: right;"}
+<br> [Read more about our research projects →](/research.html)
+:::
+::::
+:::::
+
+<br> <br>
+
+![The MemoLab at Boston College, Fall 2024](people/img/memolab_group_2024.jpg)
+
+::::: grid
+:::: g-col-12
+::: {style="font-size: 1em; text-align: right;"}
+[Meet the team →](/people.html)
+:::
+::::
+:::::
+
+:::: grid
+::: {.g-col-12 .g-col-sm-6}
+### Contact us
+
+We are located in the <a href="https://www.psych.ucla.edu/">Department of Psychology</a> at UCLA:
+
+3205 Franz Hall\
+Los Angeles, CA 90095\
+<a href="mailto:mritchey+memolab@ucla.edu" title="email"><i class="bi bi-envelope"></i></a>   <a href="https://github.com/memobc" title="github"><i class="bi bi-github"></i></a>  
+
+[Participate](/participate) in psychology and neuroscience research, or inquire about [joining the lab](/joinus).
+:::
+::::

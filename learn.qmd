@@ -1,0 +1,18 @@
+---
+title: "Learn"
+aliases: 
+  - /learn
+listing:
+  contents: learn
+  type: grid
+  sort: weight
+  fields: [title, image]
+  grid-item-border: false
+  categories: true
+---
+
+Interested in learning more about the **science of memory**?
+
+Here you can find a general introduction to some of the topics that we're most curious about. Find out more about how memory works, and how you can make it work for you.
+
+------------------------------------------------------------------------

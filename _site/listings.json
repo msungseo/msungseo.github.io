@@ -1,0 +1,44 @@
+[
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/ritchey.html",
+      "/people/krenz.html",
+      "/people/garcia.html",
+      "/people/curko.html",
+      "/people/huang.html",
+      "/people/piccirilli.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-06-08-new-preprint.html",
+      "/news/2025-05-11-graduation.html",
+      "/news/2024-03-08-welcome-valentina.html",
+      "/news/2024-03-08-welcome-natalia.html",
+      "/news/2023-10-11-eyetracking-preprints.html",
+      "/news/2023-09-04-kurkela-preprint.html",
+      "/news/2023-07-24-kyle-dissertation.html",
+      "/news/2023-05-20-graduating-seniors.html",
+      "/news/2023-05-11-paula-dissertation.html",
+      "/news/2023-03-01-tenure.html",
+      "/news/2022-08-25-welcome-nina.html",
+      "/news/2022-08-10-welcome-bri.html",
+      "/news/2022-07-15-nih-r01.html",
+      "/news/2022-03-29-rosie-dissertation.html",
+      "/news/2021-08-30-nsf-career.html"
+    ]
+  },
+  {
+    "listing": "/learn.html",
+    "items": [
+      "/learn/what-makes-memories-episodic.html",
+      "/learn/how-do-we-study-memory.html",
+      "/learn/how-do-we-encode-memory-details.html",
+      "/learn/memories-fade.html",
+      "/learn/can-we-make-bad-memories-better.html",
+      "/learn/can-music-strengthen-memories.html"
+    ]
+  }
+]

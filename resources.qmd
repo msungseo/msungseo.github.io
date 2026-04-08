@@ -1,0 +1,36 @@
+---
+title: "Resources"
+aliases: 
+  - /resources
+toc: true
+---
+
+### Lab manual
+
+-   The MemoLab [lab manual](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit?usp=sharing). You are welcome to share and adapt it.
+
+### Programming for Psychology and Neuroscience
+
+-   Course website for [Programming for Psychology and Neuroscience](https://ritcheym.github.io/ppn/), an introduction to R programming with applications to psychology and neuroscience datasets
+
+### Useful tips & tools
+
+-   [R code](https://github.com/ritcheym/generate-exam) for reproducibly generating exam versions
+-   Shiny apps demonstrating ROC curves: [simple](https://maureen.shinyapps.io/SimpleROC/), [dual-process](https://maureen.shinyapps.io/DualProcessROC/) ([source code](http://github.com/ritcheym/shinyapps))
+-   Miscellaneous SPM & fMRI [scripts](http://github.com/ritcheym/fmri_misc), including a tutorial on how to set up an [SPM batch system](http://github.com/ritcheym/fmri_misc/tree/master/batch_system)
+-   Tips on [how to run mriqc and fmriprep](/resources/2018/02/05/running-bidsapps-on-cluster/) on our cluster
+
+### Data and code
+
+-   Probabilistic MTL [atlas](https://neurovault.org/collections/3731/) including ROIs for MTL subregions
+-   Database of news videos with emotion and memorability [norms](http://www.thememolab.org/paper-videonorming)
+-   Citation network map of the affective science literature - [companion website](https://affectnet.org/)
+-   All of our lab's public [GitHub repositories](http://github.com/memobc)
+-   Looking for data or code from a specific paper from our lab? Look for the icons on the [Papers](/publications) page.
+
+### Other links
+
+-   Information about [courses](/pages/courses) that I have offered previously
+-   List of undergrad & post-bacc research [opportunities](https://docs.google.com/spreadsheets/d/1Nn_3INaaLhdQKwWy5_2KKEurj2scn6efdb8CrC15cyk/edit?usp=sharing) in cognitive neuroscience
+-   [Harvard Center for Brain Science Neuroimaging Facility](http://cbs.unix.fas.harvard.edu/science/core-facilities/neuroimaging)
+-   [BU Cognitive Neuroimaging Center](https://www.bu.edu/neuroimaging/)

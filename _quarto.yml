@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - "*.pdf"
+    - "CNAME"
+
+website:
+  description: "Research on the cognitive neuroscience of memory."
+  navbar:
+    logo: img/logo-black.png
+    pinned: TRUE
+    right:
+      - research.qmd
+      - papers.qmd
+      - people.qmd
+      - resources.qmd
+      - news.qmd
+  page-footer: 
+    background: light
+    left: >-
+      &#169; 2025 MemoLab &#8729; Made with [Quarto](https://quarto.org)
+    right: >-
+      <a href="mailto:thememolab@bc.edu" title="email"><i class="bi bi-envelope"></i></a> &#8729; [Participate](/pages/participate) &#8729; [Join](/pages/joinus)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    grid:
+      sidebar-width: 150px
+      margin-width: 200px
+
+editor: visual
+

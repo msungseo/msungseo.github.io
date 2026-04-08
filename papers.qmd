@@ -1,0 +1,63 @@
+---
+title: "Papers"
+format: html
+aliases: 
+  - /papers
+css: styles.css
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, results = "asis"}
+library(readr)
+library(glue)
+library(purrr)
+library(stringr)
+library(htmltools)
+library(knitr)
+
+`%||%` <- function(a, b) if (!is.null(a) && !is.na(a) && a != "") a else b
+
+# Read your CSV
+papers <- read_csv("papers/papers.csv")
+
+# Create raw HTML output for each row
+cards <- map_chr(1:nrow(papers), function(i) {
+  row <- papers[i, ]
+  title <- row$title %||% ""
+  shortref <- row$shortref %||% ""
+  year <- row$year %||% ""
+  paper_link <- row$url %||% "#"
+  oa_link <- row$openaccess %||% ""
+  code_link <- row$code_url %||% ""
+  featured <- row$featured
+  
+  # Conditional icons
+  oa_icon <- if (oa_link != "") {
+    glue('<a href="{oa_link}" class="icon-link" target="_blank" title="open access"><i class="bi bi-unlock"></i></a>')
+  } else { "" }
+  code_icon <- if (code_link != "") {
+    glue('<a href="{code_link}" class="icon-link" target="_blank" title="data & code"><i class="bi bi-code-slash"></i></a>')
+  } else { "" }
+  featured_icon <- if (featured) {
+    glue('<i class="bi bi-bookmark-star-fill" style="color: #0d6efd; margin-right: 0.1rem; font-size: 0.7rem;"></i>')
+ } else { "" }
+
+  glue(
+    '<div class="paper-row">
+      <div class="paper-year">{year}</div>
+      <div class="paper-info">
+        <div class="paper-title"> {featured_icon}
+          <a href="{paper_link}" class="paper-link" target="_blank">{title}</a>
+          <p class="paper-ref">{shortref}
+          
+          {oa_icon}
+          {code_icon}
+        </p>
+        </div>
+      </div>
+    </div>'
+  )
+})
+
+# Combine and output as raw HTML
+asis_output(paste(cards, collapse = "\n"))
+```
