@@ -31,7 +31,7 @@ Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*
 Stronger Mnemonic Prediction Errors Can Disproportionately Impair Memory Updating in Older Adults
 :::
 ::: paper-ref
-Seo, M. S., Wahlheim, C., & Giovanello, K. (2024). *PsyArXiv*.
+Seo, M. S., Wahlheim, C., & Giovanello, K. (2026). *PsyArXiv*.
 :::
 [[PsyArXiv](https://doi.org/10.31234/osf.io/gcr8a_v1){.paper-link}]
 :::
