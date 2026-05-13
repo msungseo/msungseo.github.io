@@ -7,7 +7,7 @@ page-layout: full
 
 :::: {layout="[35,65]" style="align-items: flex-start; gap: 2rem; padding: 4rem 0;"}
 
-![](img/homepagepic1.JPG){style="border-radius: 4px; width: 100%;"}
+![](img/IMG_2933.jpg){style="border-radius: 4px; width: 100%;"}
 
 :::::  {}
 # Min Sung Seo
