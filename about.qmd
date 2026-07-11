@@ -6,9 +6,9 @@ title: ""
 
 I am a postdoctoral scholar in Dr. Nancy Dennis's [Cognitive Aging and Neuroscience Laboratory (CANLAB)](https://canlab.la.psu.edu/) at Penn State - University Park, working on the neural correlates of episodic memory and aging.
 
-I use behavioral and neuroimaging methods to understand how memory changes across the adult lifespan.
+I use behavioral and neuroimaging methods to understand how episodic memory changes across the adult lifespan.
 
-Outside of research, I enjoy playing tennis and golf, and am patiently waiting to outlive the ending of One Piece.
+Outside of research, I enjoy playing tennis, and am patiently waiting to outlive the ending of One Piece.
 
 ---
 
@@ -27,4 +27,4 @@ Pennsylvania State University - University Park, 2020
 
 ## CV
 
-You can download my full CV [here](cv/CV_Seo_082525.pdf).
+You can download my full CV [here](cv/CV_Seo_071126.pdf).
