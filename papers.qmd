@@ -1,8 +1,10 @@
 ---
 title: ""
 ---
-## Preprints
-::: paper-row
+
+## Under Review
+
+:::: paper-row
 ::: paper-year
 2026
 :::
@@ -18,9 +20,9 @@ Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*
 ::: paper-fig
 ![](img/papers/CORE_fig.png)
 :::
-:::
+::::
 
-::: paper-row
+:::: paper-row
 ::: paper-year
 2026
 :::
@@ -36,11 +38,13 @@ Seo, M. S., Wahlheim, C., & Giovanello, K. (2026). *PsyArXiv*.
 ::: paper-fig
 ![](img/papers/APE_fig.png)
 :::
-:::
+::::
 
----
-## Peer-Reviewed Publications
-::: paper-row
+***
+
+## In Press
+
+:::: paper-row
 ::: paper-year
 2026
 :::
@@ -55,3 +59,9 @@ Seo, M. S., & Dennis, N. A. (2026). *Neuroscience & Biobehavioral Reviews*.
 :::
 ::: paper-fig
 ![](img/papers/MASS_fig.png)
+:::
+::::
+
+***
+
+## Peer-Reviewed Publications
