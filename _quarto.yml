@@ -10,7 +10,7 @@ website:
         href: about.qmd
       - text: "Research"
         href: research.qmd
-      - text: "Papers"
+      - text: "Publications"
         href: papers.qmd
       - icon: github
         href: https://github.com/msungseo

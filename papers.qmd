@@ -42,7 +42,12 @@ Seo, M. S., Wahlheim, C., & Giovanello, K. (2026). *PsyArXiv*.
 
 
 ## In Press
+:::
+::::
 
+
+
+## Peer-Reviewed Publications
 :::: paper-row
 ::: paper-year
 2026
@@ -58,8 +63,3 @@ Seo, M. S., & Dennis, N. A. (2026). *Neuroscience & Biobehavioral Reviews*.
 :::
 ::: paper-fig
 ![](img/papers/MASS_fig.png)
-:::
-::::
-
-
-## Peer-Reviewed Publications
