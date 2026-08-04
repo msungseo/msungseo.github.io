@@ -3,6 +3,23 @@ title: ""
 ---
 
 ## Under Review
+:::: paper-row
+::: paper-year
+2026
+:::
+::: paper-info
+::: paper-title
+Spatially unitized associations occupy an intermediate position along the item-to-association continuum in older adults
+:::
+::: paper-ref
+Seo, M. S., Becker, A., Huang, L. H., Overman, A.A., & Dennis, N. A. (2026). *bioRxiv*.
+:::
+[[bioRxiv](https://doi.org/10.64898/2026.07.17.739184){.paper-link}]
+:::
+::: paper-fig
+![](img/papers/PROX_MTL_fig.png)
+:::
+::::
 
 :::: paper-row
 ::: paper-year
