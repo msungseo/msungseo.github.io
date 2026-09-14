@@ -3,6 +3,7 @@ title: ""
 ---
 
 ## Under Review
+
 :::: paper-row
 ::: paper-year
 2026
@@ -12,7 +13,7 @@ title: ""
 Spatially unitized associations occupy an intermediate position along the item-to-association continuum in older adults
 :::
 ::: paper-ref
-Seo, M. S., Becker, A., Huang, L. H., Overman, A.A., & Dennis, N. A. (2026). *bioRxiv*.
+Seo, M. S., Becker, A., Huang, L. H., Overman, A. A., & Dennis, N. A. (2026). *bioRxiv*.
 :::
 [[bioRxiv](https://doi.org/10.64898/2026.07.17.739184){.paper-link}]
 :::
@@ -27,7 +28,7 @@ Seo, M. S., Becker, A., Huang, L. H., Overman, A.A., & Dennis, N. A. (2026). *bi
 :::
 ::: paper-info
 ::: paper-title
-Temporal Interference Modulates Medial Temporal and Frontoparietal Activity During Mnemonic Discrimination: A high-resolution whole-brain fMRI investigation
+Temporal interference modulates medial temporal and frontoparietal activity during mnemonic discrimination: A high-resolution whole-brain fMRI investigation
 :::
 ::: paper-ref
 Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*.
@@ -39,16 +40,19 @@ Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*
 :::
 ::::
 
+
+## In Press
+
 :::: paper-row
 ::: paper-year
 2026
 :::
 ::: paper-info
 ::: paper-title
-Stronger Mnemonic Prediction Errors Can Disproportionately Impair Memory Updating in Older Adults
+Stronger mnemonic prediction errors can disproportionately impair memory updating in older adults
 :::
 ::: paper-ref
-Seo, M. S., Wahlheim, C., & Giovanello, K. (2026). *PsyArXiv*.
+Seo, M. S., Wahlheim, C. N., & Giovanello, K. S. (in press). *JOURNAL NAME HERE*.
 :::
 [[PsyArXiv](https://doi.org/10.31234/osf.io/gcr8a_v1){.paper-link}]
 :::
@@ -57,14 +61,25 @@ Seo, M. S., Wahlheim, C., & Giovanello, K. (2026). *PsyArXiv*.
 :::
 ::::
 
-
-## In Press
+:::: paper-row
+::: paper-year
+2026
+:::
+::: paper-info
+::: paper-title
+The effects of item versus categorical labeling on subsequent memory
+:::
+::: paper-ref
+Broderick, M., Seo, M. S., & Dennis, N. A. (in press). *Canadian Journal of Experimental Psychology*.
+:::
+:::
+::: paper-fig
 :::
 ::::
 
 
-
 ## Peer-Reviewed Publications
+
 :::: paper-row
 ::: paper-year
 2026
@@ -80,3 +95,5 @@ Seo, M. S., & Dennis, N. A. (2026). *Neuroscience & Biobehavioral Reviews*.
 :::
 ::: paper-fig
 ![](img/papers/MASS_fig.png)
+:::
+::::

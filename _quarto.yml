@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Min Sung Seo"
+  site-url: https://msungseo.github.io
+  description: "Cognitive neuroscience of memory and aging"
+  open-graph: true
   navbar:
     right:
       - text: "About"
@@ -12,8 +15,12 @@ website:
         href: research.qmd
       - text: "Publications"
         href: papers.qmd
+      - text: "CV"
+        href: cv.pdf
       - icon: github
         href: https://github.com/msungseo
+      - icon: mortarboard-fill
+        href: GOOGLE_SCHOLAR_URL
       - icon: envelope
         href: mailto:mks7518@psu.edu
 
