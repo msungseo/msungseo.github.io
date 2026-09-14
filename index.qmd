@@ -3,27 +3,20 @@ title: ""
 page-layout: full
 ---
 
-:::  {.column-page}
-
 :::: {layout="[35,65]" style="align-items: flex-start; gap: 2rem; padding: 4rem 0;"}
 
-![](img/IMG_2933.jpg){style="border-radius: 4px; width: 100%;"}
+![With two strawberry vanilla soft cones.](img/IMG_2933.jpg){style="border-radius: 4px; width: 100%;"}
 
-:::::  {}
+::: {.intro}
 # Min Sung Seo
 
-### Postdoctoral Scholar · Penn State
+[Postdoctoral Scholar · Penn State]{style="font-size: 1.2rem; color: #6c757d;"}
 
-I am a cognitive neuropsychologist studying the neural correlates of episodic memory and aging.
-
-<br>
+I am a cognitive neuroscientist studying the neural correlates of episodic memory and aging.
 
 [{{< fa envelope >}} mks7518@psu.edu](mailto:mks7518@psu.edu) &nbsp;&nbsp;
 [{{< fa brands github >}} msungseo](https://github.com/msungseo) &nbsp;&nbsp;
-[{{< fa brands google >}} Google Scholar](https://scholar.google.com/citations?user=JofjEW0AAAAJ&hl=en)
-
-:::::
+[{{< fa brands google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=JofjEW0AAAAJ&hl=en)
+:::
 
 ::::
-
-:::
