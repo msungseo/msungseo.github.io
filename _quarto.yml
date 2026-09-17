@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - cv/
+    - img/
 
 website:
   title: "Min Sung Seo"
@@ -16,11 +19,12 @@ website:
       - text: "Publications"
         href: papers.qmd
       - text: "CV"
-        href: cv.pdf
+        href: cv/CV_Seo_071126.pdf
+        target: _blank
       - icon: github
         href: https://github.com/msungseo
       - icon: mortarboard-fill
-        href: GOOGLE_SCHOLAR_URL
+        href: https://scholar.google.com/citations?user=JofjEW0AAAAJ&hl=en
       - icon: envelope
         href: mailto:mks7518@psu.edu
 
