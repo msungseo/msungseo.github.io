@@ -22,6 +22,10 @@ Seo, M. S., Becker, A., Huang, L. H., Overman, A. A., & Dennis, N. A. (2026). *b
 :::
 ::::
 
+
+
+
+## In Press
 :::: paper-row
 ::: paper-year
 2026
@@ -31,7 +35,7 @@ Seo, M. S., Becker, A., Huang, L. H., Overman, A. A., & Dennis, N. A. (2026). *b
 Temporal interference modulates medial temporal and frontoparietal activity during mnemonic discrimination: A high-resolution whole-brain fMRI investigation
 :::
 ::: paper-ref
-Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*.
+Seo, M. S., Wagner, R. L., Chamberlain, J. D., Canada, K. L. & Dennis, N. A. (in press). Hippocampus.
 :::
 [[bioRxiv](https://doi.org/10.64898/2026.03.03.708601){.paper-link}]
 :::
@@ -39,9 +43,6 @@ Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*
 ![](img/papers/CORE_fig.png)
 :::
 ::::
-
-
-## In Press
 
 :::: paper-row
 ::: paper-year
@@ -52,7 +53,7 @@ Seo, M. S., Wagner, R. L., Chamberlain, J. D., & Dennis, N. A. (2026). *bioRxiv*
 Stronger mnemonic prediction errors can disproportionately impair memory updating in older adults
 :::
 ::: paper-ref
-Seo, M. S., Wahlheim, C. N., & Giovanello, K. S. (in press). *JOURNAL NAME HERE*.
+Seo, M. S., Wahlheim, C. N., & Giovanello, K. S. (in press). Journal of Experimental Psychology: General.
 :::
 [[PsyArXiv](https://doi.org/10.31234/osf.io/gcr8a_v1){.paper-link}]
 :::
