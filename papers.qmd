@@ -23,9 +23,8 @@ Seo, M. S., Becker, A., Huang, L. H., Overman, A. A., & Dennis, N. A. (2026). *b
 ::::
 
 
+## Peer-Reviewed Publications
 
-
-## In Press
 :::: paper-row
 ::: paper-year
 2026
@@ -35,9 +34,9 @@ Seo, M. S., Becker, A., Huang, L. H., Overman, A. A., & Dennis, N. A. (2026). *b
 Temporal interference modulates medial temporal and frontoparietal activity during mnemonic discrimination: A high-resolution whole-brain fMRI investigation
 :::
 ::: paper-ref
-Seo, M. S., Wagner, R. L., Chamberlain, J. D., Canada, K. L. & Dennis, N. A. (in press). Hippocampus.
+Seo, M. S., Wagner, R. L., Chamberlain, J. D., Canada, K. L. & Dennis, N. A. (2026). *Hippocampus.*
 :::
-[[bioRxiv](https://doi.org/10.64898/2026.03.03.708601){.paper-link}]
+[[https://doi.org/10.1002/hipo.70137](https://doi.org/10.1002/hipo.70137){.paper-link}]
 :::
 ::: paper-fig
 ![](img/papers/CORE_fig.png)
@@ -53,9 +52,9 @@ Seo, M. S., Wagner, R. L., Chamberlain, J. D., Canada, K. L. & Dennis, N. A. (in
 Stronger mnemonic prediction errors can disproportionately impair memory updating in older adults
 :::
 ::: paper-ref
-Seo, M. S., Wahlheim, C. N., & Giovanello, K. S. (in press). Journal of Experimental Psychology: General.
+Seo, M. S., Wahlheim, C. N., & Giovanello, K. S. (2026). *Journal of Experimental Psychology: General.*
 :::
-[[PsyArXiv](https://doi.org/10.31234/osf.io/gcr8a_v1){.paper-link}]
+[[https://doi.org/10.1037/xge0002026](https://doi.org/10.1037/xge0002026){.paper-link}]
 :::
 ::: paper-fig
 ![](img/papers/APE_fig.png)
@@ -71,15 +70,13 @@ Seo, M. S., Wahlheim, C. N., & Giovanello, K. S. (in press). Journal of Experime
 The effects of item versus categorical labeling on subsequent memory
 :::
 ::: paper-ref
-Broderick, M., Seo, M. S., & Dennis, N. A. (in press). *Canadian Journal of Experimental Psychology*.
+Broderick, M., Seo, M. S., & Dennis, N. A. (2026). *Canadian Journal of Experimental Psychology*.
 :::
+[[https://doi.org/10.1037/cep0000415](https://doi.org/10.1037/cep0000415){.paper-link}]
 :::
 ::: paper-fig
 :::
 ::::
-
-
-## Peer-Reviewed Publications
 
 :::: paper-row
 ::: paper-year
@@ -92,7 +89,7 @@ Neural correlates of successful relational memory in younger and older adults: A
 ::: paper-ref
 Seo, M. S., & Dennis, N. A. (2026). *Neuroscience & Biobehavioral Reviews*.
 :::
-[[Link](https://doi.org/10.1016/j.neubiorev.2026.106864){.paper-link}]
+[[https://doi.org/10.1016/j.neubiorev.2026.106864](https://doi.org/10.1016/j.neubiorev.2026.106864){.paper-link}]
 :::
 ::: paper-fig
 ![](img/papers/MASS_fig.png)
